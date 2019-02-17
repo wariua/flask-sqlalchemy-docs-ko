@@ -1,8 +1,8 @@
-User's Guide
-------------
+사용자 안내서
+-------------
 
-This part of the documentation will show you how to get started in using
-Flask-SQLAlchemy with Flask.
+문서의 이 부분에서는 플라스크에서 Flask-SQLAlchemy를 사용하는 방법을
+보여 준다.
 
 .. toctree::
    :maxdepth: 2
@@ -16,25 +16,25 @@ Flask-SQLAlchemy with Flask.
    signals
    customizing
 
-API Reference
+API 참조 문서
 -------------
 
-If you are looking for information on a specific function, class or
-method, this part of the documentation is for you.
+특정 함수나 클래스, 메소드에 대한 내용을 찾는다면 여기를 보면 된다.
 
 .. toctree::
    :maxdepth: 2
 
    api
 
-Additional Notes
-----------------
+추가 문서
+---------
 
-See Flask's license_ for legal information governing this project.
+이 프로젝트에 적용되는 법률적 정보에 대해선 플라스크의
+라이선스_ 를 보면 된다.
 
 .. toctree::
    :maxdepth: 2
 
    changelog
 
-.. _license: http://flask.pocoo.org/docs/license/
+.. _라이선스: http://flask.pocoo.org/docs/license/
