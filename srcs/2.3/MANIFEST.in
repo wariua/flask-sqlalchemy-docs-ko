@@ -1,0 +1,7 @@
+include CHANGES.rst LICENSE
+graft docs
+prune docs/_build
+recursive-exclude docs/_themes .git*
+recursive-exclude docs *.pyc
+graft tests
+recursive-exclude tests *.pyc
